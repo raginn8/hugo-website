@@ -1,80 +1,202 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Notre-Dame de Paris</title>
-    <link>/hugo-website/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Notre-Dame de Paris</description>
+    <title>Ananke: a Hugo Theme on Placeholder Title</title>
+    <link>/</link>
+    <description>Recent content in Ananke: a Hugo Theme on Placeholder Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Render LaTeX using KaTeX</title>
+      <link>/posts/render-latex-using-katex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/render-latex-using-katex/</guid>
+      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
++++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
+It&#39;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
+Inline math looks like this
+This is text with inline math $\sum_{n=1}^{\infty}2^{-n}=1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+    </item>
+    
+    <item>
+      <title>Hugo coder wiki</title>
+      <link>/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chapter VI: Esmeralda</title>
-      <link>/hugo-website/post/chapter-6/</link>
+      <link>/post/chapter-6/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>/hugo-website/post/chapter-6/</guid>
+      <guid>/post/chapter-6/</guid>
       <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
     </item>
     
     <item>
       <title>Chapter V: Quasimodo</title>
-      <link>/hugo-website/post/chapter-5/</link>
+      <link>/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
-      <guid>/hugo-website/post/chapter-5/</guid>
+      <guid>/post/chapter-5/</guid>
       <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
     </item>
     
     <item>
       <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>/hugo-website/post/chapter-4/</link>
+      <link>/post/chapter-4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>/hugo-website/post/chapter-4/</guid>
+      <guid>/post/chapter-4/</guid>
       <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
     </item>
     
     <item>
       <title>Chapter III: Monsieur the Cardinal</title>
-      <link>/hugo-website/post/chapter-3/</link>
+      <link>/post/chapter-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>/hugo-website/post/chapter-3/</guid>
+      <guid>/post/chapter-3/</guid>
       <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
     </item>
     
     <item>
       <title>Chapter II: Pierre Gringoire</title>
-      <link>/hugo-website/post/chapter-2/</link>
+      <link>/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>/hugo-website/post/chapter-2/</guid>
+      <guid>/post/chapter-2/</guid>
       <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
 “Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
     </item>
     
     <item>
       <title>Chapter I: The Grand Hall</title>
-      <link>/hugo-website/post/chapter-1/</link>
+      <link>/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>/hugo-website/post/chapter-1/</guid>
+      <guid>/post/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/hugo-website/contact/</link>
+      <title>Theme Demo</title>
+      <link>/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/posts/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/migrate-from-jekyll/</guid>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-website/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
+      <guid>/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
     </item>
     
   </channel>
