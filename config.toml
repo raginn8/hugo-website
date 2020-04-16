@@ -1,6 +1,9 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+#baseurl = "http://www.example.com"
+title = "Placeholder Title"
 
+# theme = "hugo-coder"
+baseURL = "/"
+themesDir = "themes"
 theme = "hugo-coder"
 
 languagecode = "en"
