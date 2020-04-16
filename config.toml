@@ -19,19 +19,19 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Nathan Spear"
+    description = "Nathan Spear's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    #gravatar = "nathaniel.a.spear@gmail.com"
     footercontent = "Enter a text here."
 
-    dateformat = "January 2, 2006"
+    dateformat = "2006-01-02"
 
-    hideFooter = false
-    hideCredits = false
-    hideCopyright = false
+    hideFooter = true
+    hideCredits = true
+    hideCopyright = true
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
